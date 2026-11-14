@@ -1,0 +1,12 @@
+Name,BasePrice,Unit,Category
+Grain,120.50,Kg,Food
+Wood,85.00,Planks,Wood
+Iron,450.00,Tons,Mineral
+Steel,800.00,Tons,Industrial
+Oil,1100.00,Barrels,Mineral
+Silk,3500.00,Bolts,Luxury
+Spices,5000.00,Sacks,Food
+Gold,6200.00,Oz,Mineral
+Electronics,15000.00,Crates,Tech
+Gemstones,45000.00,Carats,Luxury
+Uranium,95000.00,Ingots,Mineral
